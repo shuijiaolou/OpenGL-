@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\opengl\图形学实验2\源.cpp(43,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\opengl\图形学实验2\源.cpp(87,12): warning C4101: “y”: 未引用的局部变量
+D:\opengl\图形学实验2\源.cpp(87,9): warning C4101: “x”: 未引用的局部变量
+  图形学实验2.vcxproj -> D:\opengl\图形学实验2\Debug\图形学实验2.exe
